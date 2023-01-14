@@ -1,0 +1,396 @@
+.Acceuil{
+
+    background-image: url("img/thumb-1920-454216.jpg");
+    background-repeat: no-repeat
+    
+
+
+}
+
+.Nourriture{
+
+    background-image: url(img/Paella.jpg), url(img//spanish-cuisine-1920x1080.jpg), url(img/featured1.webp), url(img/Menu-de-tapas-espanolas.jpg);
+    background-repeat: no-repeat, no-repeat, no-repeat, no-repeat;
+    background-size: auto, auto, auto, auto;
+    background-position: top, center, bottom ;
+    background-color: coral;
+    
+    
+
+
+    
+}
+
+.Style-de-Paysage{
+
+    background-image: url(img/paysage\ esp.jpg), url(img/Paysage\ esp\ 2.jpg), url(img/Cite-des-Arts-Sciences-Espagne-.jpg);
+    background-repeat: no-repeat, no-repeat, no-repeat ;
+    background-size: auto, auto, auto;
+    background-position: top,  center, bottom ;
+
+    
+    
+    
+}
+
+.Titre{
+
+color: rgb(255, 255, 255);
+background-color: rgb(111, 112, 112, 0.7);
+margin-right: 20%;
+margin-left: 20%;
+border-radius: 20px;
+text-align: center;
+padding-bottom: 1%;
+padding-top: 1%;
+border: white solid 5px;
+
+
+
+
+}
+
+.sec1{
+
+color: rgb(255, 255, 255);
+background-color: rgba(111, 112, 112, 0.7) ;
+margin-top: 5%;
+margin-bottom: 5%;
+margin-left: 20%;
+margin-right: 20%;
+text-align: center;
+border: white solid 5px;
+font-size: 150%;
+padding: 4%;
+
+}
+
+.Titre2{
+
+text-align: center;
+background-color: rgb(111, 112, 112, 0.7);
+margin-right: 20%;
+margin-left: 20%;
+border-radius: 20px;
+padding-bottom: 1%;
+padding-top: 1%;
+border: white solid 5px;
+color: white;
+
+
+
+
+}
+
+
+.Paysage{
+
+    color: white;
+    background-color: rgb(111, 112, 112, 0.7);
+    text-align: center;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    margin-left: 20%;
+    margin-right: 20%;
+    border: white solid 5px;
+    font-size: 150%;
+    
+
+
+
+
+}
+
+
+.Titre4{
+
+color: white;
+
+
+
+}
+
+.sec6{
+
+color: rgb(255, 255, 255);
+background-color: rgba(111, 112, 112, 0.7) ;
+margin-top: 5%;
+margin-bottom: 5%;
+margin-left: 20%;
+margin-right: 20%;
+text-align: center;
+border: white solid 5px;
+font-size: 150%;
+padding: 4%;
+
+
+}
+
+
+
+
+
+/*BARRE DE NAVIGATION*/
+
+ul{
+
+list-style: none;
+margin: 0;
+padding: 0;
+overflow: hidden;
+background-color: gray;
+width: 325px;
+border: white solid 5px;
+
+
+
+}
+
+li{
+
+    float: left;
+    border-right: 1px solid white;
+
+}
+
+li a {
+
+display: block;
+color: white;
+text-align: center;
+padding: 14px 16px;
+
+}
+
+li a:hover{
+    background-color: lightblue;
+
+
+}
+
+ul{
+    border-radius: 20px;
+
+
+}
+
+
+
+.Titre5{
+
+    color: white;
+
+
+
+}
+
+.sec7{
+
+    color: rgb(255, 255, 255);
+    background-color: rgba(111, 112, 112, 0.7) ;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    margin-left: 20%;
+    margin-right: 20%;
+    text-align: center;
+    border: white solid 5px;
+    font-size: 150%;
+    padding: 4%;
+    
+}
+
+.active{
+
+background-color: rgb(57, 185, 169, 0.7);
+
+}
+
+.Titre6{
+
+color: white;
+
+}
+
+.sec8{
+   
+    color: rgb(255, 255, 255);
+    background-color: rgba(111, 112, 112, 0.7) ;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    margin-left: 20%;
+    margin-right: 20%;
+    text-align: center;
+    border: white solid 5px;
+    font-size: 150%;
+    padding: 4%;
+
+
+}
+
+.Titre7{
+
+color: white;
+
+}
+
+
+.sec9{
+
+    color: rgb(255, 255, 255);
+    background-color: rgba(111, 112, 112, 0.7) ;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    margin-left: 20%;
+    margin-right: 20%;
+    text-align: center;
+    border: white solid 5px;
+    font-size: 150%;
+    padding: 4%;
+
+}
+
+.sec10{
+
+    color: rgb(255, 255, 255);
+    background-color: rgba(111, 112, 112, 0.7) ;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    margin-left: 20%;
+    margin-right: 20%;
+    text-align: center;
+    border: white solid 5px;
+    font-size: 150%;
+    padding: 4%;
+
+}
+
+.Titre8{
+
+color: white;
+
+}
+
+
+
+
+
+.ul1{
+
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: gray;
+    width: 252.50px;
+    border: white solid 5px;
+    text-align: center;
+    margin-left: 42.5%;
+
+
+}
+
+
+.li2{
+
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 0.5px 2.1px;
+
+
+}
+.li2:hover{
+
+    background-color: lightblue;
+
+
+}
+
+
+/*P3 RETOURNER AU DEBUT*/
+
+.ul2{
+
+
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: gray;
+    width: 289.5px;
+    border: white solid 5px;
+    text-align: center;
+    margin-left: 42.5%;
+    padding-right: 1px;
+    
+}
+
+.li3{
+    
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 0.5px 1px;
+
+
+
+}
+
+/*INDEX PAGE SUIVANTE*/
+
+.ul8{
+
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: gray;
+    width: 124.08px;
+    border: white solid 5px;
+    text-align: center;
+    margin-left: 46%;
+    padding-right: 1px;
+
+
+}
+
+.li8{
+
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 0.5px 1px;
+
+
+}
+
+
+.Titre3{
+
+    text-align: center;
+    background-color: rgb(111, 112, 112, 0.7);
+    margin-right: 20%;
+    margin-left: 20%;
+    border-radius: 20px;
+    padding-bottom: 1%;
+    padding-top: 1%;
+    border: white solid 5px;
+    color: white;
+    
+
+}
+
+.sec3{
+
+    color: rgb(255, 255, 255);
+    background-color: rgba(111, 112, 112, 0.7) ;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    margin-left: 20%;
+    margin-right: 20%;
+    text-align: center;
+    border: white solid 5px;
+    font-size: 150%;
+    padding: 4%;
+
+}
